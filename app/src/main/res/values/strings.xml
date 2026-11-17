@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scaffale Lievito</string>
+    <string name="channel_tips">Promemoria</string>
+    <string name="channel_tips_desc">Piccoli richiami su pane e scaffale.</string>
+
+    <string name="back">Indietro</string>
+    <string name="favorite_toggle">Segna</string>
+    <string name="not_found">Voce non trovata.</string>
+
+    <string name="hub_title">Bussola</string>
+    <string name="hub_subtitle">%1$d piatti · %2$d studiati</string>
+    <string name="hub_catalogo">Catalogo</string>
+    <string name="hub_catalogo_sub">%1$d piatti, tecniche e pani.</string>
+    <string name="hub_scaffale">Scaffale</string>
+    <string name="hub_scaffale_sub">%1$d in scaffale adesso.</string>
+    <string name="hub_segnati">Segnati</string>
+    <string name="hub_segnati_sub">%1$d preferiti.</string>
+    <string name="hub_impostazioni">Impostazioni</string>
+    <string name="hub_impostazioni_sub">Tips, allergeni, info progetto.</string>
+
+    <string name="catalogo_title">Catalogo</string>
+    <string name="catalogo_intro">Sfoglia, cerca, metti in scaffale.</string>
+    <string name="catalogo_collezioni">Collezioni</string>
+    <string name="catalogo_collezioni_sub">%1$d raccolte curate.</string>
+    <string name="catalogo_glossario">Glossario</string>
+    <string name="catalogo_glossario_sub">%1$d termini rapidi.</string>
+    <string name="search_label">Cerca (titolo, area, tecnica)</string>
+    <string name="catalogo_count">%1$d risultati</string>
+
+    <string name="scaffale_title">Scaffale</string>
+    <string name="scaffale_intro">Qui vivono i tuoi pani in rotazione.</string>
+    <string name="scaffale_in_scaffale">In scaffale (%1$d)</string>
+    <string name="scaffale_studiate">Studiata (%1$d)</string>
+    <string name="scaffale_empty">Niente in scaffale. Apri un piatto e scegli “in scaffale”.</string>
+
+    <string name="segnati_title">Segnati</string>
+    <string name="segnati_intro">%1$d preferiti pronti al volo.</string>
+    <string name="segnati_empty">Nessun preferito. Usa la stella nel catalogo o nel dettaglio.</string>
+
+    <string name="dettaglio_title">Dettaglio</string>
+    <string name="key_points">Punti chiave</string>
+    <string name="testo">Note</string>
+
+    <string name="collezioni_title">Collezioni</string>
+    <string name="collezioni_intro">Percorsi brevi. Pane, crosta, tecnica.</string>
+    <string name="collezione_title">Collezione</string>
+
+    <string name="glossario_title">Glossario</string>
+    <string name="glossario_intro">%1$d termini. Brevi e utili.</string>
+
+    <string name="impostazioni_title">Impostazioni</string>
+    <string name="impostazioni_tips">Tips</string>
+    <string name="tips_enabled">Promemoria</string>
+    <string name="tips_enabled_sub">Notifiche leggere. Solo offline.</string>
+    <string name="tip_pane_del_giorno">Pane del giorno</string>
+    <string name="tip_pane_del_giorno_sub">Un piatto suggerito per studiare.</string>
+    <string name="tip_scaffale_pronto">Scaffale pronto</string>
+    <string name="tip_scaffale_pronto_sub">Un richiamo per tenere lo scaffale vivo.</string>
+
+    <string name="impostazioni_allergeni">Allergeni</string>
+    <string name="allergen_disclaimer">Disclaimer: i contenuti parlano di pane. Contiene glutine.</string>
+
+    <string name="impostazioni_info">Info</string>
+</resources>
